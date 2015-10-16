@@ -1,0 +1,21 @@
+{
+  "generator-jhipster": {
+    "baseName": "jHipsterDemo",
+    "packageName": "com.pedro.demo.jhipster",
+    "packageFolder": "com/pedro/demo/jhipster",
+    "authenticationType": "session",
+    "hibernateCache": "no",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": "no",
+    "useSass": true,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "javaVersion": "8",
+    "enableTranslation": true,
+    "rememberMeKey": "1da4846e8af701476378970a1c658abb3f5e6c54"
+  }
+}
